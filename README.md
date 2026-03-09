@@ -4,7 +4,7 @@ Aici puteți găsi toate materialele ce țin de tutoriatul LMC 1 din 2026 ținut
 
 >[!NOTE]
 > Tutoriatul se desfășoară în fiecare **Joi, la ora 08:00 dimineața**.
-> Mai multe informații puteți găsi în acest grup de whatsapp [](link)
+> Mai multe informații puteți găsi în acest grup de [whatsapp](https://chat.whatsapp.com/CjSfuJoQlLlB3vUB3uPWnB)
 
 ## Structură
 
