@@ -2,7 +2,7 @@
 
 Aici puteți găsi toate materialele ce țin de tutoriatul LMC 1 din 2026 ținut de Vlăduț Ghiță, Raluca Ionete și Robert Voaideș, și încă alte materiale ce țin de materie.
 
->[!Info]
+>[!info]
 > Tutoriatul se desfășoară în fiecare **Joi, la ora 08:00 dimineața**.
 > Mai multe informații puteți găsi în acest grup de whatsapp [](link)
 
