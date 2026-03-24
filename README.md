@@ -13,4 +13,5 @@ Aici puteți găsi toate materialele ce țin de tutoriatul LMC 1 din 2026 ținut
 - [aici](./Colocviu/) găsiți subiectul de **colocviu** și câteva rezolvări (momentan incomplet/parițial complet)
 - [aici](./Cursuri/) găsiți [cursul](./Cursuri/curs.pdf) predat anul trecut și un [material](./Cursuri/materiale-merged-pt-examen.pdf) care combină toate informațiile necesare, pentru luat la examen.
 - [aici](./Seminarii/) găsiți seminariile din 2025, cu rezolvarea lor oficială, și câteva [seminarii](./Seminarii/Seminarii-extra/) extra, din 2015, pentru cine vrea să facă mai mult
-
+- [aici](./Tutoriat/tutoriate.pdf) o să găsiți materialele pe care lucrăm la tutoriat, updatate săptămânal. Fiecare captiol reprezintă ce s-a lucrat în cadrul tutoriatului
+corespunzător.
